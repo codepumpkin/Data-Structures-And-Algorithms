@@ -4,6 +4,13 @@ import java.io.PrintWriter;
 import java.util.Arrays;
 import java.util.Scanner;
 
+/**
+ * You can read more about N Queen Problem Using Recursive Backtracking at 
+ * http://codepumpkin.com/n-queen-problem/
+ * 
+ * @author codepumpkin.com
+ *
+ */
 public class NQueenProblem {
 
 	public static PrintWriter out = new PrintWriter(System.out);

@@ -1,5 +1,12 @@
 package com.codepumpkin.algorithms.recursion;
 
+/**
+ * You can read more about Sudoku Solver Using Recursive Backtracking at 
+ * http://codepumpkin.com/sudoku-solver-using-backtracking/
+ * 
+ * @author codepumpkin.com
+ *
+ */
 public class SudokuSolver {
 
 	public static void main(String[] args) {
